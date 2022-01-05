@@ -46,3 +46,17 @@ Services Memosa
 gfm.mail.72@gmail.com
 438-838-1972
 
+___________________________________________________________________
+
+Liens pour s'amuser
+Une fleure pour mon X que j'aime et qui aime les chats
+Es-tu mon minou?
+Un site pour les gens qui aiment les chats
+https://mon-minou.weebly.com/
+
+Scraper smart for 2022
+We developed programs to collect images and media on the web.
+
+Image-miner
+open-source image scraper
+https://image-miner.weebly.com/
