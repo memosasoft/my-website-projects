@@ -37,8 +37,7 @@ Projet @ Tv
 https://projet-tv-gratuite.weebly.com/
 
 Un projet IPTV pour aidez les Québecois
-Bon voici mon projet personnel pour apprendre les secrets du streaming en 2021. C'est un projet pour voir les limites et la possibilité qu'offre le streaming actuellement.  C'est un projet pour aider les Québécois cet hiver pour traverser la crise.
-Un projet pour aider à économiser et baisser la facture du foyer. Un projet pour aider ceux qui ont des difficultés économiques.
+Bon voici mon projet personnel pour apprendre les secrets du streaming en 2021. C'est un projet pour voir les limites et la possibilité qu'offre le streaming actuellement.  C'est un projet pour aider les Québécois cet hiver pour traverser la crise avec un peu de TV gratuite.
 
 Projet @ TV Gratuite fonctionnement libre-service Les postes sont tous publics et si vous êtes bon en informatique ou en technologie vous allez facilement pouvoir faire vous-même l'installation sans aucun frais et c'est 100% gratuit.
 
